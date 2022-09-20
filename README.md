@@ -1,6 +1,4 @@
-<div id="header" align="center"> 
-  <img src="https://vgif.ru/gifs/154/vgif-ru-24720.gif" width="1000" /> 
-</div>
+
 <div align="center" id="значки"> 
   <a href="ваш-linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logoColor=white" alt="Liza_ksena"/> </a> 
   <a href="https://t.me/Liza_ksena"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
