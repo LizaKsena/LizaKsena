@@ -3,17 +3,7 @@
   <a href="https://t.me/Liza_ksena"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
 </div>
 
----
 
-### About Me :
-
-- I’m frontend developer.
-
-- Exploring Technical Content Writing.
-
-- In my free time, I solve problems on codewars and read tech articles.
-
----
 
 
 ### :hammer_and_wrench: Languages and Tools:
